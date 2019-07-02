@@ -1,0 +1,11 @@
+1, How Effectively Does Metamorphic Testing Alleviate the Oracle Problem? IEEE Trans. Software Eng. 40(1): 4-22 (2014)
+
+2, A Cost-Effective Random Testing Method for Programs with Non-Numeric Inputs. IEEE Trans. Computers 65(12): 3509-3523 (2016)
+
+3, Randomized Quasi-Random Testing. IEEE Trans. Computers 65(6): 1896-1909 (2016)
+
+4, Automated Testing of WS-BPEL Service Compositions: A Scenario-Oriented Approach. IEEE Trans. Services Computing 11(4): 616-629 (2018)​
+
+5, Metamorphic Testing: A Review of Challenges and Opportunities. ACM Comput. Surv. 51(1): 4:1-4:27 (2018)
+
+6, Adaptive Partition Testing. IEEE Trans. Computers 68(2): 157-169 (2019)
